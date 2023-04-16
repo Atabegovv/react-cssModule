@@ -1,0 +1,32 @@
+.block {
+	max-width: 750px;
+	padding: 50px;
+	margin: 0 auto;
+	margin-top: 50px;
+
+	border: 1px solid grey;
+	border-radius: 20px;
+}
+
+.block__title {
+	font-size: 30px;
+	font-weight: 900;
+	line-height: 1.5;
+	color: #000;
+}
+
+.block__text {
+	font-size: 22px;
+	line-height: 1.2;
+	font-weight: 300;
+	color: green;
+}
+
+.block__btn {
+	display: inline-block;
+	padding: 10px 20px;
+	border: 1px solid yellow;
+	border-radius: 4px;
+	cursor: pointer;
+}
+
